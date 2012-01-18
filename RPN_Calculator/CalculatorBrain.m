@@ -1,6 +1,6 @@
 //
 //  CalculatorBrain.m
-//  RPN_Calculator
+//  RPN_Calculator version 5
 //
 //  Created by Graham Cottew on 14/12/11.
 //  Copyright (c) 2011 Zendata Pty Ltd. All rights reserved.
