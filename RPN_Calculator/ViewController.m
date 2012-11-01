@@ -147,7 +147,7 @@
 
 }
 
-- (IBAction)testPressed:(id)sender {
+- (IBAction)testPressed:(UIButton *)sender {
     
     // Add a few different “test” buttons which set testVariableValues to some preset testing values. One of them should set testVariableValues to nil.
     NSString *testButton =  [sender currentTitle];
